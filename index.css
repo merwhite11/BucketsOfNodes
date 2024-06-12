@@ -1,0 +1,18 @@
+.title {
+  text-align: center;
+}
+.outer-rectangle {
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  position: relative
+}
+
+.node {
+  height: 25px;
+  width: 25px;
+  background-color: purple;
+  border-radius: 50%;
+}
